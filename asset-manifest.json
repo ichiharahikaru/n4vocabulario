@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/n4vocabulario/static/css/main.815bff00.chunk.css",
-    "main.js": "/n4vocabulario/static/js/main.bb81844d.chunk.js",
-    "main.js.map": "/n4vocabulario/static/js/main.bb81844d.chunk.js.map",
+    "main.js": "/n4vocabulario/static/js/main.ce2e37ff.chunk.js",
+    "main.js.map": "/n4vocabulario/static/js/main.ce2e37ff.chunk.js.map",
     "runtime-main.js": "/n4vocabulario/static/js/runtime-main.5010828e.js",
     "runtime-main.js.map": "/n4vocabulario/static/js/runtime-main.5010828e.js.map",
     "static/css/2.4be38407.chunk.css": "/n4vocabulario/static/css/2.4be38407.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.fded7524.chunk.js",
     "static/css/main.815bff00.chunk.css",
-    "static/js/main.bb81844d.chunk.js"
+    "static/js/main.ce2e37ff.chunk.js"
   ]
 }
