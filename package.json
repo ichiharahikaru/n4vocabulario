@@ -2,7 +2,7 @@
   "name": "jouzu",
   "version": "1.0.0",
   "private": true,
-  "homepage": "http://prausela.github.io/jouzu",
+  "homepage": "http://ichiharahikaru.github.io/n4vocabulario",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",

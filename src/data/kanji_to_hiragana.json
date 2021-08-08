@@ -5,7 +5,7 @@
         "correct_answer"    : "Sabor/Gusto",
         "other_answers"     : [
             
-            "Pie",
+            "Pie"
             
         ]
     }, {
@@ -14,7 +14,7 @@
         "correct_answer"    : "Bebe",
         "other_answers"     : [
             
-            "Bebe",
+            "Bebe"
             
         ]
     }, {
@@ -23,7 +23,7 @@
         "correct_answer"    : "Guiar",
         "other_answers"     : [
             
-            "Paz mental",
+            "Paz mental"
           
         ]
     }, {
@@ -32,7 +32,7 @@
         "correct_answer"    : "Paz mental/ Alivio",
         "other_answers"     : [
             
-            "Guiar",
+            "Guiar"
         
         ]
     }, {
@@ -40,7 +40,7 @@
         "question"          : "あんぜん",
         "correct_answer"    : "Seguro, seguridad",
         "other_answers"     : [
-            "Alivio",
+            "Alivio"
             
      
         ]
@@ -50,7 +50,7 @@
         "correct_answer"    : "Caso, situacion, circunstancia",
         "other_answers"     : [
             
-            "Seguro, seguridad",
+            "Seguro, seguridad"
       
         ]
     }, {
@@ -58,7 +58,7 @@
         "question"          : "べつ",
         "correct_answer"    : "Aparte, por separado",
         "other_answers"     : [
-            "Aparte, por separado",
+            "Aparte, por separado"
             
            
         ]
@@ -68,7 +68,7 @@
         "correct_answer"    : "Comercio",
         "other_answers"     : [
             
-            "Comercio",
+            "Comercio"
             
         ]
     }, {
@@ -76,7 +76,7 @@
         "question"          : "ぶんがく",
         "correct_answer"    : "Literatura",
         "other_answers"     : [
-            "Comercio",
+            "Comercio"
             
         
         ]
@@ -86,7 +86,7 @@
         "correct_answer"    : "Cultura, civilizacion",
         "other_answers"     : [
             
-            "Literatura",
+            "Literatura"
             
         ]
     }, {
@@ -95,7 +95,7 @@
         "correct_answer"    : "Gramatica",
         "other_answers"     : [
             
-            "Literatura",
+            "Literatura"
            
         ]
     }, {
@@ -104,7 +104,7 @@
         "correct_answer"    : "Sangre",
         "other_answers"     : [
             
-            "Sabor/Gusto",
+            "Sabor/Gusto"
          
         ]
     }, {
@@ -113,7 +113,7 @@
         "correct_answer"    : "Poder",
         "other_answers"     : [
             
-            "Cuerpo",
+            "Cuerpo"
       
         ]
     }, {
@@ -121,7 +121,7 @@
         "question"          : "ちり",
         "correct_answer"    : "Geografia",
         "other_answers"     : [
-            "Literatura",
+            "Literatura"
             
         
         ]
@@ -131,7 +131,7 @@
         "correct_answer"    : "Tener cuidado",
         "other_answers"     : [
             
-            "Tener cuidado",
+            "Tener cuidado"
           
         ]
     }, {
@@ -139,7 +139,7 @@
         "question"          : "注射　ちゅうしゃ",
         "correct_answer"    : "Inyeccion",
         "other_answers"     : [
-            "Estacionamiento",
+            "Estacionamiento"
             
           
         ]
@@ -149,7 +149,7 @@
         "correct_answer"    : "Estacionamiento",
         "other_answers"     : [
             
-            "Inyeccion",
+            "Inyeccion"
         
         ]
     }, {
@@ -158,7 +158,7 @@
         "correct_answer"    : "Aproximadamente, mas o menos",
         "other_answers"     : [
             
-            "Calefactor",
+            "Calefactor"
             
         ]
     }, {
@@ -166,7 +166,7 @@
         "question"          : "だんぼう",
         "correct_answer"    : "Calefactor",
         "other_answers"     : [
-            "Genero Masculino",
+            "Genero Masculino"
             
            
         ]
@@ -176,7 +176,7 @@
         "correct_answer"    : "Genero Masculino",
         "other_answers"     : [
             
-            "Comercio",
+            "Comercio"
          
         ]
     }
@@ -185,7 +185,7 @@
         "question"          : "げしゅく",
         "correct_answer"    : "Hospedaje",
         "other_answers"     : [
-            "Condicion",
+            "Condicion"
             
          
         ]
@@ -196,7 +196,7 @@
         "correct_answer"    : "Gadgets, habilidad tecnica",
         "other_answers"     : [
             
-            "Traduccion",
+            "Traduccion"
          
         ]
     }
@@ -205,7 +205,7 @@
         "question"          : "ぐあい",
         "correct_answer"    : "Condicion, estado fisico de alguien",
         "other_answers"     : [
-            "Observar",
+            "Observar"
             
          
         ]
@@ -215,7 +215,7 @@
         "question"          : "はいけん",
         "correct_answer"    : "Observar (Muy formal)",
         "other_answers"     : [
-            "Lo contrario",
+            "Lo contrario"
             
          
         ]
@@ -225,7 +225,7 @@
         "question"          : "はんたい",
         "correct_answer"    : "Lo contrario",
         "other_answers"     : [
-            "Observar",
+            "Observar"
             
          
         ]
@@ -236,7 +236,7 @@
         "correct_answer"    : "Pronunciacion",
         "other_answers"     : [
             
-            "Lo contrario",
+            "Lo contrario"
          
         ]
     }, 
@@ -246,7 +246,7 @@
         "correct_answer"    : "Bosque",
         "other_answers"     : [
             
-            "Respuesta",
+            "Respuesta"
          
         ]
     }, 
@@ -255,7 +255,7 @@
         "question"          : "へんじ",
         "correct_answer"    : "Respuesta",
         "other_answers"     : [
-            "Observar",
+            "Observar"
             
          
         ]
@@ -267,7 +267,7 @@
         "correct_answer"    : "Tirar y sacar",
         "other_answers"     : [
             
-            "Salir",
+            "Salir"
          
         ]
     }, 
@@ -277,7 +277,7 @@
         "question"          : "ひこう",
         "correct_answer"    : "Vuelo",
         "other_answers"     : [
-            "Lista",
+            "Lista"
             
          
         ]
@@ -289,7 +289,7 @@
         "correct_answer"    : "Durante el dia, momento del dia",
         "other_answers"     : [
             
-            "Descanso del mediodia",
+            "Descanso del mediodia"
          
         ]
     }, 
@@ -300,8 +300,8 @@
         "correct_answer"    : "Necesario",
         "other_answers"     : [
             
-            "Respuesta",
-         
+            "Respuesta"
+        
         ]
     }, 
 	
@@ -311,7 +311,7 @@
         "correct_answer"    : "Traduccion",
         "other_answers"     : [
             
-            "Libreria",
+            "Libreria"
          
         ]
     }, 
@@ -322,7 +322,7 @@
         "question"          : "ほうりつ",
         "correct_answer"    : "Transmision",
         "other_answers"     : [
-            "Observar",
+            "Observar"
             
          
         ]
@@ -334,7 +334,7 @@
         "correct_answer"    : "Lista",
         "other_answers"     : [
             
-            "Transmision",
+            "Transmision"
          
         ]
     }, 
@@ -345,7 +345,7 @@
         "correct_answer"    : "A excepcion",
         "other_answers"     : [
             
-            "No menos de...",
+            "No menos de..."
          
         ]
     }, 
@@ -357,7 +357,7 @@
         "correct_answer"    : "Medicina",
         "other_answers"     : [
             
-            "Enfermeria",
+            "Enfermeria"
          
         ]
     }, 
@@ -368,7 +368,7 @@
         "question"          : "いじょう",
         "correct_answer"    : "No menos de...",
         "other_answers"     : [
-            "A excepcion",
+            "A excepcion"
             
          
         ]
@@ -380,7 +380,7 @@
         "question"          : "じょう",
         "correct_answer"    : "Soltera",
         "other_answers"     : [
-            "Jovencita",
+            "Jovencita"
             
          
         ]
@@ -393,7 +393,7 @@
         "correct_answer"    : "Mujer joven, jovencita",
         "other_answers"     : [
             
-            "Soltera",
+            "Soltera"
          
         ]
     }, 
@@ -405,7 +405,7 @@
         "correct_answer"    : "Planificar",
         "other_answers"     : [
             
-            "Direccion",
+            "Direccion"
          
         ]
     }, 
@@ -417,7 +417,7 @@
         "correct_answer"    : "Direccion",
         "other_answers"     : [
             
-            "Planificar",
+            "Planificar"
          
         ]
     }, 
@@ -429,7 +429,7 @@
         "correct_answer"    : "Pared",
         "other_answers"     : [
             
-            "Planificar",
+            "Planificar"
          
         ]
     }, 
@@ -441,7 +441,7 @@
         "correct_answer"    : "Ciencia",
         "other_answers"     : [
             
-            "Transmision",
+            "Transmision"
          
         ]
     }, 
@@ -451,7 +451,7 @@
         "question"          : "かがみ",
         "correct_answer"    : "Espejo",
         "other_answers"     : [
-            "Ciencia",
+            "Ciencia"
             
          
         ]
@@ -462,7 +462,7 @@
         "correct_answer"    : "Conjunto, reunion",
         "other_answers"     : [
             
-            "Vuelta",
+            "Vuelta"
          
         ]
     }, 
@@ -471,7 +471,7 @@
         "question"          : "かいじょう",
         "correct_answer"    : "Lugar de reunion",
         "other_answers"     : [
-            "Conjunto, reunion",
+            "Conjunto, reunion"
             
          
         ]
@@ -481,7 +481,7 @@
         "question"          : "かいわ",
         "correct_answer"    : "Conversacion",
         "other_answers"     : [
-            "Ciencia",
+            "Ciencia"
             
          
         ]
@@ -491,7 +491,7 @@
         "question"          : "かじ",
         "correct_answer"    : "Incendio",
         "other_answers"     : [
-            "Picante",
+            "Picante"
             
          
         ]
@@ -502,7 +502,7 @@
         "correct_answer"    : "Esposa",
         "other_answers"     : [
             
-            "Incendio",
+            "Incendio"
          
         ]
     }, 
@@ -512,7 +512,7 @@
         "correct_answer"    : "Rico",
         "other_answers"     : [
             
-            "Relacion",
+            "Relacion"
          
         ]
     }, 
@@ -522,7 +522,7 @@
         "correct_answer"    : "Enfermeria",
         "other_answers"     : [
             
-            "De forma",
+            "De forma"
          
         ]
     }, 
@@ -532,7 +532,7 @@
         "correct_answer"    : "Reemplazo",
         "other_answers"     : [
             
-            "Telegrama",
+            "Telegrama"
          
         ]
     }
