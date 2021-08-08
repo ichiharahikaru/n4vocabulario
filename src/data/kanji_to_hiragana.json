@@ -1,0 +1,540 @@
+[
+    {
+        "id"                : "0",
+        "question"          : "あじ",
+        "correct_answer"    : "Sabor/Gusto",
+        "other_answers"     : [
+            
+            "Pie",
+            
+        ]
+    }, {
+        "id"                : "1",
+        "question"          : "あかんぼう",
+        "correct_answer"    : "Bebe",
+        "other_answers"     : [
+            
+            "Bebe",
+            
+        ]
+    }, {
+        "id"                : "2",
+        "question"          : "あんない",
+        "correct_answer"    : "Guiar",
+        "other_answers"     : [
+            
+            "Paz mental",
+          
+        ]
+    }, {
+        "id"                : "3",
+        "question"          : "あんしん",
+        "correct_answer"    : "Paz mental/ Alivio",
+        "other_answers"     : [
+            
+            "Guiar",
+        
+        ]
+    }, {
+        "id"                : "4",
+        "question"          : "あんぜん",
+        "correct_answer"    : "Seguro, seguridad",
+        "other_answers"     : [
+            "Alivio",
+            
+     
+        ]
+    }, {
+        "id"                : "5",
+        "question"          : "ばあい",
+        "correct_answer"    : "Caso, situacion, circunstancia",
+        "other_answers"     : [
+            
+            "Seguro, seguridad",
+      
+        ]
+    }, {
+        "id"                : "6",
+        "question"          : "べつ",
+        "correct_answer"    : "Aparte, por separado",
+        "other_answers"     : [
+            "Aparte, por separado",
+            
+           
+        ]
+    }, {
+        "id"                : "7",
+        "question"          : "ぼうえき",
+        "correct_answer"    : "Comercio",
+        "other_answers"     : [
+            
+            "Comercio",
+            
+        ]
+    }, {
+        "id"                : "8",
+        "question"          : "ぶんがく",
+        "correct_answer"    : "Literatura",
+        "other_answers"     : [
+            "Comercio",
+            
+        
+        ]
+    }, {
+        "id"                : "9",
+        "question"          : "ぶんか",
+        "correct_answer"    : "Cultura, civilizacion",
+        "other_answers"     : [
+            
+            "Literatura",
+            
+        ]
+    }, {
+        "id"                : "10",
+        "question"          : "ぶんぽう",
+        "correct_answer"    : "Gramatica",
+        "other_answers"     : [
+            
+            "Literatura",
+           
+        ]
+    }, {
+        "id"                : "11",
+        "question"          : "ち",
+        "correct_answer"    : "Sangre",
+        "other_answers"     : [
+            
+            "Sabor/Gusto",
+         
+        ]
+    }, {
+        "id"                : "12",
+        "question"          : "ちから",
+        "correct_answer"    : "Poder",
+        "other_answers"     : [
+            
+            "Cuerpo",
+      
+        ]
+    }, {
+        "id"                : "13",
+        "question"          : "ちり",
+        "correct_answer"    : "Geografia",
+        "other_answers"     : [
+            "Literatura",
+            
+        
+        ]
+    }, {
+        "id"                : "14",
+        "question"          : "ちゅうい",
+        "correct_answer"    : "Tener cuidado",
+        "other_answers"     : [
+            
+            "Tener cuidado",
+          
+        ]
+    }, {
+        "id"                : "15",
+        "question"          : "注射　ちゅうしゃ",
+        "correct_answer"    : "Inyeccion",
+        "other_answers"     : [
+            "Estacionamiento",
+            
+          
+        ]
+    }, {
+        "id"                : "16",
+        "question"          : "駐車　ちゅうしゃ",
+        "correct_answer"    : "Estacionamiento",
+        "other_answers"     : [
+            
+            "Inyeccion",
+        
+        ]
+    }, {
+        "id"                : "17",
+        "question"          : "だいたい",
+        "correct_answer"    : "Aproximadamente, mas o menos",
+        "other_answers"     : [
+            
+            "Calefactor",
+            
+        ]
+    }, {
+        "id"                : "18",
+        "question"          : "だんぼう",
+        "correct_answer"    : "Calefactor",
+        "other_answers"     : [
+            "Genero Masculino",
+            
+           
+        ]
+    }, {
+        "id"                : "19",
+        "question"          : "だんせい",
+        "correct_answer"    : "Genero Masculino",
+        "other_answers"     : [
+            
+            "Comercio",
+         
+        ]
+    }
+	, {
+        "id"                : "20",
+        "question"          : "げしゅく",
+        "correct_answer"    : "Hospedaje",
+        "other_answers"     : [
+            "Condicion",
+            
+         
+        ]
+    }
+	, {
+        "id"                : "21",
+        "question"          : "ぎじゅつ",
+        "correct_answer"    : "Gadgets, habilidad tecnica",
+        "other_answers"     : [
+            
+            "Traduccion",
+         
+        ]
+    }
+	, {
+        "id"                : "22",
+        "question"          : "ぐあい",
+        "correct_answer"    : "Condicion, estado fisico de alguien",
+        "other_answers"     : [
+            "Observar",
+            
+         
+        ]
+    }, 
+	{
+        "id"                : "23",
+        "question"          : "はいけん",
+        "correct_answer"    : "Observar (Muy formal)",
+        "other_answers"     : [
+            "Lo contrario",
+            
+         
+        ]
+    }, 
+	{
+        "id"                : "24",
+        "question"          : "はんたい",
+        "correct_answer"    : "Lo contrario",
+        "other_answers"     : [
+            "Observar",
+            
+         
+        ]
+    }, 
+	{
+        "id"                : "25",
+        "question"          : "はつおん",
+        "correct_answer"    : "Pronunciacion",
+        "other_answers"     : [
+            
+            "Lo contrario",
+         
+        ]
+    }, 
+	{
+        "id"                : "26",
+        "question"          : "はやし",
+        "correct_answer"    : "Bosque",
+        "other_answers"     : [
+            
+            "Respuesta",
+         
+        ]
+    }, 
+	{
+        "id"                : "27",
+        "question"          : "へんじ",
+        "correct_answer"    : "Respuesta",
+        "other_answers"     : [
+            "Observar",
+            
+         
+        ]
+    }, 
+	
+	{
+        "id"                : "28",
+        "question"          : "ひきだし",
+        "correct_answer"    : "Tirar y sacar",
+        "other_answers"     : [
+            
+            "Salir",
+         
+        ]
+    }, 
+	
+	{
+        "id"                : "29",
+        "question"          : "ひこう",
+        "correct_answer"    : "Vuelo",
+        "other_answers"     : [
+            "Lista",
+            
+         
+        ]
+    }, 
+	
+	{
+        "id"                : "30",
+        "question"          : "ひるま",
+        "correct_answer"    : "Durante el dia, momento del dia",
+        "other_answers"     : [
+            
+            "Descanso del mediodia",
+         
+        ]
+    }, 
+	
+	{
+        "id"                : "31",
+        "question"          : "ひつよう",
+        "correct_answer"    : "Necesario",
+        "other_answers"     : [
+            
+            "Respuesta",
+         
+        ]
+    }, 
+	
+	{
+        "id"                : "32",
+        "question"          : "ほんやく",
+        "correct_answer"    : "Traduccion",
+        "other_answers"     : [
+            
+            "Libreria",
+         
+        ]
+    }, 
+	
+	
+	{
+        "id"                : "33",
+        "question"          : "ほうりつ",
+        "correct_answer"    : "Transmision",
+        "other_answers"     : [
+            "Observar",
+            
+         
+        ]
+    }, 
+	
+	{
+        "id"                : "34",
+        "question"          : "びょう",
+        "correct_answer"    : "Lista",
+        "other_answers"     : [
+            
+            "Transmision",
+         
+        ]
+    }, 
+	
+	{
+        "id"                : "35",
+        "question"          : "いがい",
+        "correct_answer"    : "A excepcion",
+        "other_answers"     : [
+            
+            "No menos de...",
+         
+        ]
+    }, 
+	
+	
+	{
+        "id"                : "36",
+        "question"          : "いがく",
+        "correct_answer"    : "Medicina",
+        "other_answers"     : [
+            
+            "Enfermeria",
+         
+        ]
+    }, 
+	
+	
+	{
+        "id"                : "37",
+        "question"          : "いじょう",
+        "correct_answer"    : "No menos de...",
+        "other_answers"     : [
+            "A excepcion",
+            
+         
+        ]
+    }, 
+	
+	
+	{
+        "id"                : "38",
+        "question"          : "じょう",
+        "correct_answer"    : "Soltera",
+        "other_answers"     : [
+            "Jovencita",
+            
+         
+        ]
+    }, 
+	
+	
+	{
+        "id"                : "39",
+        "question"          : "じょせい",
+        "correct_answer"    : "Mujer joven, jovencita",
+        "other_answers"     : [
+            
+            "Soltera",
+         
+        ]
+    }, 
+	
+	
+	{
+        "id"                : "40",
+        "question"          : "じゅんび",
+        "correct_answer"    : "Planificar",
+        "other_answers"     : [
+            
+            "Direccion",
+         
+        ]
+    }, 
+	
+	
+	{
+        "id"                : "41",
+        "question"          : "じゅうしょ",
+        "correct_answer"    : "Direccion",
+        "other_answers"     : [
+            
+            "Planificar",
+         
+        ]
+    }, 
+	
+	
+	{
+        "id"                : "42",
+        "question"          : "かべ",
+        "correct_answer"    : "Pared",
+        "other_answers"     : [
+            
+            "Planificar",
+         
+        ]
+    }, 
+	
+	
+	{
+        "id"                : "43",
+        "question"          : "かがく",
+        "correct_answer"    : "Ciencia",
+        "other_answers"     : [
+            
+            "Transmision",
+         
+        ]
+    }, 
+	
+	{
+        "id"                : "44",
+        "question"          : "かがみ",
+        "correct_answer"    : "Espejo",
+        "other_answers"     : [
+            "Ciencia",
+            
+         
+        ]
+    }, 
+	{
+        "id"                : "45",
+        "question"          : "かい",
+        "correct_answer"    : "Conjunto, reunion",
+        "other_answers"     : [
+            
+            "Vuelta",
+         
+        ]
+    }, 
+	{
+        "id"                : "46",
+        "question"          : "かいじょう",
+        "correct_answer"    : "Lugar de reunion",
+        "other_answers"     : [
+            "Conjunto, reunion",
+            
+         
+        ]
+    }, 
+	{
+        "id"                : "47",
+        "question"          : "かいわ",
+        "correct_answer"    : "Conversacion",
+        "other_answers"     : [
+            "Ciencia",
+            
+         
+        ]
+    }, 
+	{
+        "id"                : "48",
+        "question"          : "かじ",
+        "correct_answer"    : "Incendio",
+        "other_answers"     : [
+            "Picante",
+            
+         
+        ]
+    }, 
+	{
+        "id"                : "49",
+        "question"          : "かない",
+        "correct_answer"    : "Esposa",
+        "other_answers"     : [
+            
+            "Incendio",
+         
+        ]
+    }, 
+	{
+        "id"                : "50",
+        "question"          : "かねもち",
+        "correct_answer"    : "Rico",
+        "other_answers"     : [
+            
+            "Relacion",
+         
+        ]
+    }, 
+	{
+        "id"                : "51",
+        "question"          : "かんご",
+        "correct_answer"    : "Enfermeria",
+        "other_answers"     : [
+            
+            "De forma",
+         
+        ]
+    }, 
+	{
+        "id"                : "52",
+        "question"          : "かわり",
+        "correct_answer"    : "Reemplazo",
+        "other_answers"     : [
+            
+            "Telegrama",
+         
+        ]
+    }
+	
+]
