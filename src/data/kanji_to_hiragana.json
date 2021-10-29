@@ -535,6 +535,388 @@
             "Telegrama"
          
         ]
-    }
+    }, 
+	{
+        "id"                : "53",
+        "question"          : "でんとう",
+        "correct_answer"    : "Luz Electrica",
+        "other_answers"     : [
+            
+            "Utencilios"
+         
+        ]
+		}, 
+	{
+        "id"                : "54",
+        "question"          : "どうぐ",
+        "correct_answer"    : "Utencilios",
+        "other_answers"     : [
+            
+            "Telegrama"
+         
+        ]
+		}, 
+	{
+        "id"                : "55",
+        "question"          : "えだ",
+        "correct_answer"    : "Rama",
+        "other_answers"     : [
+            
+            "Luz Electrica"
+         
+        ]}, 
+	{
+        "id"                : "56",
+        "question"          : "えんりょう",
+        "correct_answer"    : "Modestia",
+        "other_answers"     : [
+            
+            "Consulta"
+         
+        ]}, 
+	{
+        "id"                : "57",
+        "question"          : "ふべん",
+        "correct_answer"    : "Inconveniente",
+        "other_answers"     : [
+            
+            "Modestia"
+         
+        ]
+		}, 
+	{
+        "id"                : "58",
+        "question"          : "ふくしゅう",
+        "correct_answer"    : "Repaso",
+        "other_answers"     : [
+            
+            "Inconveniente"
+         
+        ], 
+		}
+	{
+        "id"                : "59",
+        "question"          : "ふくさつ",
+        "correct_answer"    : "Intrincado/Complicado",
+        "other_answers"     : [
+            
+            "Repaso"
+         
+        ]
+		}
+		, 
+	{
+        "id"                : "60",
+        "question"          : "ふつう",
+        "correct_answer"    : "Comun",
+        "other_answers"     : [
+            
+            "Complicado"
+         
+        ]
+    },
 	
-]
+	{
+        "id"                : "61",
+        "question"          : "げんいん",
+        "correct_answer"    : "Origen",
+        "other_answers"     : [
+            
+            "Complicado"
+         
+        ]
+    },
+	
+	{
+        "id"                : "62",
+        "question"          : "こうどう",
+        "correct_answer"    : "Auditorio",
+        "other_answers"     : [
+            
+            "Origen"
+         
+        ]
+    },
+	{
+        "id"                : "63",
+        "question"          : "こうがい",
+        "correct_answer"    : "Suburbio",
+        "other_answers"     : [
+            
+            "Origen"
+         
+        ]
+    },
+    {
+        "id"                : "64",
+        "question"          : "こうぎ",
+        "correct_answer"    : "Discurso",
+        "other_answers"     : [
+            
+            "Suburbio"
+         
+        ]
+    },{
+        "id"                : "65",
+        "question"          : "こうぎょう",
+        "correct_answer"    : "Industria",
+        "other_answers"     : [
+            
+            "Fabrica"
+         
+        ]
+	
+    },{
+        "id"                : "66",
+        "question"          : "こうじょう",
+        "correct_answer"    : "Fabrica",
+        "other_answers"     : [
+            
+            "Complicado"
+         
+        ]
+    },
+	{
+        "id"                : "67",
+        "question"          : "いか",
+        "correct_answer"    : "Menos",
+        "other_answers"     : [
+            
+            "Al menos"
+         
+        ]
+    },
+	
+	{
+        "id"                : "68",
+        "question"          : "いない",
+        "correct_answer"    : "Al menos",
+        "other_answers"     : [
+            
+            "Menos"
+         
+        ]
+    },
+	{
+        "id"                : "69",
+        "question"          : "いなか",
+        "correct_answer"    : "Lugar de origen/area rural",
+        "other_answers"     : [
+            
+            "Al menos"
+         
+        ]
+    },
+	{
+        "id"                : "70",
+        "question"          : "いっじょう",
+        "correct_answer"    : "Toda la vida",
+        "other_answers"     : [
+            
+            "Menos"
+         
+        ]
+    },
+    {
+        "id"                : "71",
+        "question"          : "いと",
+        "correct_answer"    : "Hilo",
+        "other_answers"     : [
+            
+            "Piedra"
+         
+        ]
+    },
+	{
+        "id"                : "72",
+        "question"          : "いわい",
+        "correct_answer"    : "Celebracion",
+        "other_answers"     : [
+            
+            "Hilo"
+         
+        ]
+    },
+	{
+        "id"                : "73",
+        "question"          : "じだい",
+        "correct_answer"    : "Epoca",
+        "other_answers"     : [
+            
+            "Celebracion"
+         
+        ]
+    },
+	{
+        "id"                : "74",
+        "question"          : "じこ",
+        "correct_answer"    : "Accidente",
+        "other_answers"     : [
+            
+            "Epoca"
+         
+        ]
+    },
+	{
+        "id"                : "74",
+        "question"          : "じむ",
+        "correct_answer"    : "Administracion",
+        "other_answers"     : [
+            
+            "Epoca"
+         
+        ]
+    },
+    {
+        "id"                : "75",
+        "question"          : "じんこう",
+        "correct_answer"    : "Poblacion",
+        "other_answers"     : [
+            
+            "Semaforo"
+         
+        ]
+    },
+	{
+        "id"                : "76",
+        "question"          : "じしん",
+        "correct_answer"    : "Terremoto",
+        "other_answers"     : [
+            
+            "Poblacion"
+         
+        ]
+    },
+	{
+        "id"                : "77",
+        "question"          : "じてん",
+        "correct_answer"    : "Enciclopedia",
+        "other_answers"     : [
+            
+            "Terremoto"
+         
+        ]
+    },
+    {
+        "id"                : "78",
+        "question"          : "ねぼう",
+        "correct_answer"    : "Quedarse dormido",
+        "other_answers"     : [
+            
+            "Hilo"
+         
+        ]
+    },
+	
+	{
+        "id"                : "79",
+        "question"          : "にんぎょう",
+        "correct_answer"    : "Muñeca",
+        "other_answers"     : [
+            
+            "Complicado"
+         
+        ]
+    },
+	{
+        "id"                : "80",
+        "question"          : "のりもの",
+        "correct_answer"    : "Transporte/Vehiculo",
+        "other_answers"     : [
+            
+            "Combinar"
+         
+        ]
+    },{
+        "id"                : "81",
+        "question"          : "にゅうがく",
+        "correct_answer"    : "Ingresante",
+        "other_answers"     : [
+            
+            "Secundaria"
+         
+        ]
+    },{
+        "id"                : "83",
+        "question"          : "け",
+        "correct_answer"    : "Pelaje",
+        "other_answers"     : [
+            
+            "Pelo"
+         
+        ]
+    },
+    {
+        "id"                : "84",
+        "question"          : "けいかく",
+        "correct_answer"    : "Plan/Proyecto",
+        "other_answers"     : [
+            
+            "Asistir"
+         
+        ]
+    },{
+        "id"                : "85",
+        "question"          : "けいけん",
+        "correct_answer"    : "Experiencia",
+        "other_answers"     : [
+            
+            "Plan/Proyecto"
+         
+        ]
+    },{
+        "id"                : "86",
+        "question"          : "けいさつ",
+        "correct_answer"    : "Policia",
+        "other_answers"     : [
+            
+            "Experiencia"
+         
+        ]
+    },{
+        "id"                : "87",
+        "question"          : "けいざい",
+        "correct_answer"    : "Economia",
+        "other_answers"     : [
+            
+            "Experiencia"
+         
+        ]
+    },{
+        "id"                : "88",
+        "question"          : "けんぶつ",
+        "correct_answer"    : "Observar",
+        "other_answers"     : [
+            
+            "Proyecto"
+         
+        ]
+    },
+	{
+        "id"                : "89",
+        "question"          : "みもの",
+        "correct_answer"    : "Atraccion/ Espectaculo",
+        "other_answers"     : [
+            
+            "Observar"
+         
+        ]
+    },{
+        "id"                : "90",
+        "question"          : "けんぶつ",
+        "correct_answer"    : "Turistear",
+        "other_answers"     : [
+            
+            "Proyecto"
+         
+        ]
+    },
+    }
+    
+	
+	
+	
+	
+	
+	
+	
