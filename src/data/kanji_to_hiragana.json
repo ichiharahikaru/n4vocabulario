@@ -885,7 +885,7 @@
     },{
         "id"                : "88",
         "question"          : "けんぶつ",
-        "correct_answer"    : "Observar",
+        "correct_answer"    : "Turistear",
         "other_answers"     : [
             
             "Proyecto"
@@ -903,11 +903,558 @@
         ]
     },{
         "id"                : "90",
-        "question"          : "けんぶつ",
-        "correct_answer"    : "Turistear",
+        "question"          : "けんきゅう",
+        "correct_answer"    : "Investigacion",
         "other_answers"     : [
             
-            "Proyecto"
+            "Observar"
+         
+        ]
+    }
+	,{
+        "id"                : "91",
+        "question"          : "けしき",
+        "correct_answer"    : "Paisaje",
+        "other_answers"     : [
+            
+            "Historia"
+         
+        ]
+		},{
+        "id"                : "92",
+        "question"          : "き",
+        "correct_answer"    : "Energia",
+        "other_answers"     : [
+            
+            "Poder"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "93",
+        "question"          : "きぶん",
+        "correct_answer"    : "Estado de animo",
+        "other_answers"     : [
+            
+            "Milagro"
+         
+        ]
+    }
+	,{
+        "id"                : "94",
+        "question"          : "きかい",
+        "correct_answer"    : "Oportunidad",
+        "other_answers"     : [
+            
+            "Poder"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "95",
+        "question"          : "きけん",
+        "correct_answer"    : "Ｐeligro",
+        "other_answers"     : [
+            
+            "Oportunidad"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "96",
+        "question"          : "ぎんじょ",
+        "correct_answer"    : "Vecindario",
+        "other_answers"     : [
+            
+            "Direccion"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "97",
+        "question"          : "きぬ",
+        "correct_answer"    : "Seda",
+        "other_answers"     : [
+            
+            "Hilo"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "98",
+        "question"          : "きせつ",
+        "correct_answer"    : "Estaciones del año",
+        "other_answers"     : [
+            
+            "Conexion"
+         
+        ]
+    }
+	,{
+        "id"                : "99",
+        "question"          : "きしゃ",
+        "correct_answer"    : "Tren a vapor",
+        "other_answers"     : [
+            
+            "Tren"
+         
+        ]
+    }
+	,{
+        "id"                : "100",
+        "question"          : "きそく",
+        "correct_answer"    : "Reglas",
+        "other_answers"     : [
+            
+            "Tren a vapor"
+         
+        ]
+    }
+	,{
+        "id"                : "101",
+        "question"          : "せんそう",
+        "correct_answer"    : "Guerra",
+        "other_answers"     : [
+            
+            "Regla"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "102",
+        "question"          : "せつめい",
+        "correct_answer"    : "Explicacion",
+        "other_answers"     : [
+            
+            "Cuidado"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "103",
+        "question"          : "せわ",
+        "correct_answer"    : "Cuidado",
+        "other_answers"     : [
+            
+            "Explicacion"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "104",
+        "question"          : "しゃかい",
+        "correct_answer"    : "Sociedad",
+        "other_answers"     : [
+            
+            "Guerra"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "105",
+        "question"          : "こじょう",
+        "correct_answer"    : "Averiado/roto",
+        "other_answers"     : [
+            
+            "Fabrica"
+         
+        ]
+    }
+    ,{
+        "id"                : "106",
+        "question"          : "こたえ",
+        "correct_answer"    : "Respuesta",
+        "other_answers"     : [
+            
+            "Sociedad"
+         
+        ]
+		
+		
+  },{
+        "id"                : "107",
+        "question"          : "こくさい",
+        "correct_answer"    : "Internacional",
+        "other_answers"     : [
+            
+            "Guerra"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "108",
+        "question"          : "こうむ",
+        "correct_answer"    : "Asuntos Publicos",
+        "other_answers"     : [
+            
+            "Internacional"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "109",
+        "question"          : "こんや",
+        "correct_answer"    : "Esta noche",
+        "other_answers"     : [
+            
+            "Esta vez"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "110",
+        "question"          : "こんど",
+        "correct_answer"    : "Esta vez / Esta oportunidad",
+        "other_answers"     : [
+            
+            "Esta noche"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "111",
+        "question"          : "くさ",
+        "correct_answer"    : "Pasto",
+        "other_answers"     : [
+            
+            "Nube"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "112",
+        "question"          : "きゃく",
+        "correct_answer"    : "Cliente",
+        "other_answers"     : [
+            
+            "Esposa"
+         
+        ]
+    },{
+        "id"                : "113",
+        "question"          : "きょういく",
+        "correct_answer"    : "Educacion",
+        "other_answers"     : [
+            
+            "Sociedad"
+         
+        ]
+    },{
+        "id"                : "114",
+        "question"          : "ようかい",
+        "correct_answer"    : "Iglesia",
+        "other_answers"     : [
+            
+            "Reunion"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "115",
+        "question"          : "きょうみ",
+        "correct_answer"    : "Interes",
+        "other_answers"     : [
+            
+            "Educacion"
+         
+        ]
+    }
+	,{
+        "id"                : "116",
+        "question"          : "きょうそう",
+        "correct_answer"    : "Competencia",
+        "other_answers"     : [
+            
+            "Interes"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "117",
+        "question"          : "きょう",
+        "correct_answer"    : "Repentino",
+        "other_answers"     : [
+            
+            "Interes"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "118",
+        "question"          : "きょうこう",
+        "correct_answer"    : "Tren expreso",
+        "other_answers"     : [
+            
+            "Tren a vapor"
+         
+        ]
+    }
+	
+	
+	,{
+        "id"                : "119",
+        "question"          : "まんなか",
+        "correct_answer"    : "En el medio de...",
+        "other_answers"     : [
+            
+            "Alrededor"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "120",
+        "question"          : "まわり",
+        "correct_answer"    : "Alrededor",
+        "other_answers"     : [
+            
+            "En cambio"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "121",
+        "question"          : "みんまい",
+        "correct_answer"    : "Visitar un enfermo / Cuidar de...",
+        "other_answers"     : [
+            
+            "Sociedad"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "122",
+        "question"          : "みなと",
+        "correct_answer"    : "Puerto",
+        "other_answers"     : [
+            
+            "Lago"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "123",
+        "question"          : "みずうみ",
+        "correct_answer"    : "Lago",
+        "other_answers"     : [
+            
+            "Puerto"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "124",
+        "question"          : "もめん",
+        "correct_answer"    : "Algodon",
+        "other_answers"     : [
+            
+            "Sociedad"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "125",
+        "question"          : "にゅういん",
+        "correct_answer"    : "Internarse",
+        "other_answers"     : [
+            
+            "Ingresar"
+         
+        ]
+    }
+	,{
+        "id"                : "126",
+        "question"          : "おどり",
+        "correct_answer"    : "Baile",
+        "other_answers"     : [
+            
+            "Algodon"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "127",
+        "question"          : "だいぶ",
+        "correct_answer"    : "Considerablemente",
+        "other_answers"     : [
+            
+            "Dar aviso"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "128",
+        "question"          : "れんらく",
+        "correct_answer"    : "Dar aviso",
+        "other_answers"     : [
+            
+            "Uso"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "129",
+        "question"          : "りよう",
+        "correct_answer"    : "Uso",
+        "other_answers"     : [
+            
+            "Dar aviso"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "130",
+        "question"          : "りゆう",
+        "correct_answer"    : "Dar una razon",
+        "other_answers"     : [
+            
+            "Dar aviso"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "131",
+        "question"          : "おくじょう",
+        "correct_answer"    : "Terraza",
+        "other_answers"     : [
+            
+            "Cliente"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "132",
+        "question"          : "おくりもの",
+        "correct_answer"    : "Regalo / Obsequio",
+        "other_answers"     : [
+            
+            "Cosas enviadas"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "133",
+        "question"          : "おしいれ",
+        "correct_answer"    : "Armario",
+        "other_answers"     : [
+            
+            "Terraza"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "134",
+        "question"          : "おや",
+        "correct_answer"    : "Padres",
+        "other_answers"     : [
+            
+            "Verduras"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "135",
+        "question"          : "らく",
+        "correct_answer"    : "Practico",
+        "other_answers"     : [
+            
+            "Respeto"
+         
+        ]
+    }
+	,{
+        "id"                : "136",
+        "question"          : "れい",
+        "correct_answer"    : "Respeto",
+        "other_answers"     : [
+            
+            "Practico"
+         
+        ]
+    }
+	,{
+        "id"                : "137",
+        "question"          : "れいぼう",
+        "correct_answer"    : "Aire Acondicionado",
+        "other_answers"     : [
+            
+            "Transporte"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "138",
+        "question"          : "れきし",
+        "correct_answer"    : "Historia",
+        "other_answers"     : [
+            
+            "Paisaje"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "139",
+        "question"          : "こうつう",
+        "correct_answer"    : "Transporte",
+        "other_answers"     : [
+            
+            "Aire"
+         
+        ]
+    }
+	
+	
+	,{
+        "id"                : "140",
+        "question"          : "くうき",
+        "correct_answer"    : "Aire",
+        "other_answers"     : [
+            
+            "Avion"
+         
+        ]
+    }
+	
+	,{
+        "id"                : "141",
+        "question"          : "くうこう",
+        "correct_answer"    : "Aeropuerto",
+        "other_answers"     : [
+            
+            "Avion"
          
         ]
     }
